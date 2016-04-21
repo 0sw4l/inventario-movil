@@ -1,0 +1,123 @@
+[
+    {
+        "outputFile": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v19/attrs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 62,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v19/attrs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 62,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 55,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v19/attrs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 55,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v19/attrs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 56,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 52,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v19/attrs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 52,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 249
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/item_navigation_drawer_productos"
+            android:icon="@drawable/ic_inbox_black_24dp"
+            android:title="Productos" />
+        <item
+            android:id="@+id/item_navigation_drawer_categorias"
+            android:icon="@drawable/ic_action_content_send"
+            android:title="Categorias" />
+    </group>
+
+    <item android:title="Opciones Especiales">
+        <menu>
+            <item
+                android:id="@+id/item_navigation_drawer_favoritos"
+                android:icon="@drawable/ic_action_toggle_star"
+                android:title="Favoritos" />
+        </menu>
+    </item>
+
+</menu>
