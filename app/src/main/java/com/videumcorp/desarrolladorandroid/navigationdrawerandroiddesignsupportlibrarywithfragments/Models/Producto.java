@@ -3,6 +3,8 @@ package com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupport
 import com.orm.SugarRecord;
 import com.orm.dsl.Ignore;
 
+import java.util.List;
+
 
 public class Producto extends SugarRecord {
 
@@ -41,4 +43,5 @@ public class Producto extends SugarRecord {
     public void setCategoria(Categoria categoria) {
         this.categoria = categoria;
     }
+
 }
