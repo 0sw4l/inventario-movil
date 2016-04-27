@@ -101,7 +101,7 @@ public class Categorias extends Fragment {
 
             @Override
             public void onSwiped(RecyclerView.ViewHolder viewHolder, int direction) {
-                //Remove swiped item from list and notify the RecyclerView
+
 
                 final int position = viewHolder.getAdapterPosition();
                 final Categoria categoria = categorias.get(viewHolder.getAdapterPosition());
