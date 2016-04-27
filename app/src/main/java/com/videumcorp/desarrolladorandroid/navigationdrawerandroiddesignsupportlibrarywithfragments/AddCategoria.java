@@ -22,7 +22,7 @@ public class AddCategoria extends AppCompatActivity {
 
     Toolbar toolbar;
     EditText categoria_nombre;
-    FloatingActionButton salvar_categoria;
+    FloatingActionButton salvar_categoria, cancelar;
     Extras call = new Extras(this);
     String nombre, nombre_;
     Categoria categoria;
@@ -63,6 +63,14 @@ public class AddCategoria extends AppCompatActivity {
             categoria_nombre.setText(nombre_);
             editarCategoria=true;
         }
+
+        cancelar = (FloatingActionButton)findViewById(R.id.cancelar);
+        cancelar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
 
         salvar_categoria.setOnClickListener(new View.OnClickListener() {
             @Override

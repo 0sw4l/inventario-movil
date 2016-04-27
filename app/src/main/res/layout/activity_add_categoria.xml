@@ -47,7 +47,7 @@
         android:layout_gravity="center">
 
         <android.support.design.widget.FloatingActionButton
-            android:id="@+id/borrar_categoria"
+            android:id="@+id/cancelar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|center"

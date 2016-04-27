@@ -20,12 +20,12 @@
         "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",

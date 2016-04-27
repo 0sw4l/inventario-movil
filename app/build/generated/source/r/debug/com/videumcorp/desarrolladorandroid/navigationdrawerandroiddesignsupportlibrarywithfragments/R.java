@@ -2968,10 +2968,11 @@ containing a value of this type.
         public static final int alertTitle=0x7f0d0049;
         public static final int always=0x7f0d0033;
         public static final int beginning=0x7f0d0031;
-        public static final int borrar_categoria=0x7f0d006b;
         public static final int bottom=0x7f0d001d;
         public static final int buttonPanel=0x7f0d0044;
         public static final int cancel_action=0x7f0d0087;
+        public static final int cancelar=0x7f0d006b;
+        public static final int cancelar_=0x7f0d0070;
         public static final int cantidad=0x7f0d006e;
         public static final int cantidad_producto=0x7f0d0096;
         public static final int categoria=0x7f0d006f;
@@ -2999,7 +3000,6 @@ containing a value of this type.
         public static final int design_navigation_view=0x7f0d007e;
         public static final int disableHome=0x7f0d000e;
         public static final int edit_query=0x7f0d005c;
-        public static final int elimnar_producto=0x7f0d0070;
         public static final int end=0x7f0d0021;
         public static final int end_padder=0x7f0d0092;
         public static final int enterAlways=0x7f0d0015;

@@ -28,7 +28,7 @@ public class AddProducto extends AppCompatActivity {
 
     Toolbar toolbar;
     Producto producto;
-    FloatingActionButton btn_salvar;
+    FloatingActionButton btn_salvar, cancelar;
     EditText nombre, cantidad;
     Spinner categorias;
     String nombre_, cantidad_, categoria_, old_name;
@@ -105,6 +105,14 @@ public class AddProducto extends AppCompatActivity {
 
         //CategoriaModel.deleteAll(CategoriaModel.class);
         //call.msg("categorias borradas", this);
+
+        cancelar = (FloatingActionButton)findViewById(R.id.cancelar_);
+        cancelar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
 
         btn_salvar = (FloatingActionButton) findViewById(R.id.salvar_producto);
         btn_salvar.setOnClickListener(new View.OnClickListener() {

@@ -1038,10 +1038,11 @@ int id agregar_producto 0x7f0d0085
 int id alertTitle 0x7f0d0049
 int id always 0x7f0d0033
 int id beginning 0x7f0d0031
-int id borrar_categoria 0x7f0d006b
 int id bottom 0x7f0d001d
 int id buttonPanel 0x7f0d0044
 int id cancel_action 0x7f0d0087
+int id cancelar 0x7f0d006b
+int id cancelar_ 0x7f0d0070
 int id cantidad 0x7f0d006e
 int id cantidad_producto 0x7f0d0096
 int id categoria 0x7f0d006f
@@ -1069,7 +1070,6 @@ int id design_menu_item_text 0x7f0d007f
 int id design_navigation_view 0x7f0d007e
 int id disableHome 0x7f0d000e
 int id edit_query 0x7f0d005c
-int id elimnar_producto 0x7f0d0070
 int id end 0x7f0d0021
 int id end_padder 0x7f0d0092
 int id enterAlways 0x7f0d0015
