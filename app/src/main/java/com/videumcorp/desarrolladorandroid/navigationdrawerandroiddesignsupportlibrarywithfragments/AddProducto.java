@@ -10,25 +10,36 @@ import android.util.TypedValue;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
-import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Models.CategoriaModel;
-import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Models.ProductoModel;
+import android.widget.Spinner;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Models.Categoria;
+import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Models.Producto;
+
 import java.util.ArrayList;
+import java.util.List;
 
 
 public class AddProducto extends AppCompatActivity {
 
     Toolbar toolbar;
-    ProductoModel producto;
-    FloatingActionButton btn_salvar, btn_borrar;
-    EditText nombre, cantidad, categoria_id;
-    String nombre_, cantidad_, categoria_;
-    int _cantidad_; long _categoria_;
+    Producto producto;
+    FloatingActionButton btn_salvar;
+    EditText nombre, cantidad;
+    Spinner categorias;
+    String nombre_, cantidad_, categoria_, old_name;
+    int _cantidad_;
+    int _categoria_;
+    boolean editarProducto;
     Extras call = new Extras(this);
 
-    private ArrayList<String> data;
+    private ArrayList<Categoria> data;
     private ArrayAdapter<String> adapter;
+    List<Producto> get_producto;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,40 +66,100 @@ public class AddProducto extends AppCompatActivity {
             getWindow().setStatusBarColor(colorPrimaryDark);
         }
 
-        nombre = (EditText)findViewById(R.id.nombre_producto);
-        cantidad = (EditText)findViewById(R.id.cantidad);
-        categoria_id = (EditText)findViewById(R.id.categoria);
+        List<Categoria> cats = Categoria.listAll(Categoria.class);
 
-        btn_salvar = (FloatingActionButton)findViewById(R.id.salvar_producto);
+        nombre = (EditText) findViewById(R.id.nombre_producto);
+        cantidad = (EditText) findViewById(R.id.cantidad);
+        categorias = (Spinner) findViewById(R.id.categoria);
+
+        ArrayAdapter adapter = new ArrayAdapter(this, R.layout.support_simple_spinner_dropdown_item, cats);
+
+        categorias.setAdapter(adapter);
+
+        editarProducto = getIntent().getBooleanExtra("editando", false);
+
+        if (editarProducto) {
+            nombre_ = getIntent().getStringExtra("producto");
+            old_name = nombre_;
+            get_producto = Producto.find(Producto.class, "nombre = ?", old_name);
+            cantidad_ = getIntent().getStringExtra("cantidad");
+            _categoria_ = getIntent().getIntExtra("categoria", 0);
+            nombre.setText(nombre_);
+            cantidad.setText(cantidad_, TextView.BufferType.EDITABLE);
+            editarProducto = true;
+        }
+
+        String cat_spinner = "";
+        categorias.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                Categoria cat = (Categoria) parent.getItemAtPosition(position);
+                categoria_ = cat.nombre;
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
+
+        //CategoriaModel.deleteAll(CategoriaModel.class);
+        //call.msg("categorias borradas", this);
+
+        btn_salvar = (FloatingActionButton) findViewById(R.id.salvar_producto);
         btn_salvar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 nombre_ = nombre.getText().toString();
                 cantidad_ = cantidad.getText().toString();
-                categoria_ = categoria_id.getText().toString();
-
-                if (nombre_.length() > 0 && cantidad_.length() > 0  && categoria_.length() > 0){
-                    _categoria_ = Int(categoria_);
-                    call.msg("categoria # "+_categoria_, v.getContext());
+                if (nombre_.length() > 0 && cantidad_.length() > 0 && categoria_.length() > 0) {
                     try {
-                        CategoriaModel categoria = CategoriaModel.findById(CategoriaModel.class, _categoria_);
-                        call.msg("Categoria obtenida : ", v.getContext());
-                        producto = new ProductoModel(nombre_, _cantidad_, categoria);
-                        producto.save();
-                        categoria.productos += 1;
-                        categoria.save();
-                        call.msg("Producto Creado Exitosamente!", v.getContext());
-                    }catch (Exception e){
+
+                        _cantidad_ = Int(cantidad_);
+                        List<Categoria> cat_ = Categoria.find(Categoria.class, "nombre = ?", categoria_);
+
+                        if (editarProducto){
+
+                            if (get_producto.size() > 0) {
+
+                                Producto p = get_producto.get(0);
+                                p.setNombre(nombre_);
+                                p.cantidad = _cantidad_;
+                                Categoria c = cat_.get(0);
+
+                                if (p.getCategoria() != c){
+                                    c.setProductos(c.getProductos()+1);
+                                    c.save();
+                                    p.categoria.setProductos(p.categoria.getProductos()-1);
+                                    p.categoria.save();
+                                }
+
+                                p.categoria = cat_.get(0);
+                                p.save();
+                                finish();
+                            }
+                        }else{
+                            List<Producto> prod_ = Producto.find(Producto.class, "nombre = ?", nombre_);
+                            if (!cat_.isEmpty() && prod_.isEmpty()) {
+                                producto = new Producto(nombre_, _cantidad_, cat_.get(0));
+                                producto.save();
+                                Categoria cat = cat_.get(0);
+                                cat.productos++;
+                                cat.save();
+                                finish();
+                            } else {
+                                call.Alert("Error", "este producto ya existe", v.getContext());
+                            }
+                        }
+
+                    } catch (Exception e) {
                         call.msg("Error", v.getContext());
                         Log.e(e.getMessage(), "error");
-                        //  call.msg("Esta categoria no existe", v.getContext());
                     }
-                }else {
+                } else {
                     call.Alert("Error, Registro Fallido", "Por favor complete los campos para crear" +
-                            "una nueva categoria", v.getContext());
+                            "una nuevo producto", v.getContext());
                 }
-
-
 
             }
         });
@@ -102,10 +173,12 @@ public class AddProducto extends AppCompatActivity {
         return true;
     }
 
-    public long Int(String c){
-        long val = Integer.parseInt(c);
+    public int Int(String c) {
+        int val = Integer.parseInt(c);
         return val;
     }
+
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {

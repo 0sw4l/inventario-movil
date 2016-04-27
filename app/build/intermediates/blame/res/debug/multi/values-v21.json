@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 274
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -107,7 +107,7 @@
                     "endOffset": 611
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/styles.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 702
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 805
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 908
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1013
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1120
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1229
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1338
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1447
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1556
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 1665
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 1772
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 1875
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 1994
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -375,7 +375,7 @@
                     "endOffset": 2149
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -396,7 +396,7 @@
                     "endOffset": 2304
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -416,7 +416,7 @@
                     "endOffset": 2409
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -435,7 +435,7 @@
                     "endOffset": 2530
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -454,7 +454,7 @@
                     "endOffset": 2631
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -474,7 +474,7 @@
                     "endOffset": 2778
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 2919
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -515,7 +515,7 @@
                     "endOffset": 3022
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -534,7 +534,7 @@
                     "endOffset": 3141
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -553,7 +553,7 @@
                     "endOffset": 3248
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -572,7 +572,7 @@
                     "endOffset": 3351
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -592,7 +592,7 @@
                     "endOffset": 3506
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -613,7 +613,7 @@
                     "endOffset": 3677
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -634,7 +634,7 @@
                     "endOffset": 3826
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -655,7 +655,7 @@
                     "endOffset": 3991
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4148
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 4299
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -717,7 +717,7 @@
                     "endOffset": 4418
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -737,7 +737,7 @@
                     "endOffset": 4567
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -758,7 +758,7 @@
                     "endOffset": 4716
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -778,7 +778,7 @@
                     "endOffset": 4828
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -797,7 +797,7 @@
                     "endOffset": 4975
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -817,7 +817,7 @@
                     "endOffset": 5128
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -838,7 +838,7 @@
                     "endOffset": 5275
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -858,7 +858,7 @@
                     "endOffset": 5350
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -877,7 +877,7 @@
                     "endOffset": 5439
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -896,7 +896,7 @@
                     "endOffset": 5526
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -915,7 +915,7 @@
                     "endOffset": 5627
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -935,7 +935,7 @@
                     "endOffset": 8695
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -956,7 +956,7 @@
                     "endOffset": 8881
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -977,7 +977,7 @@
                     "endOffset": 11961
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -998,7 +998,7 @@
                     "endOffset": 12159
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -1019,7 +1019,7 @@
                     "endOffset": 12282
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -1040,7 +1040,7 @@
                     "endOffset": 12405
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -1061,7 +1061,7 @@
                     "endOffset": 12518
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -1082,7 +1082,7 @@
                     "endOffset": 12701
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1103,7 +1103,7 @@
                     "endOffset": 12832
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1124,7 +1124,7 @@
                     "endOffset": 13033
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1144,7 +1144,7 @@
                     "endOffset": 13122
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -1163,7 +1163,7 @@
                     "endOffset": 13233
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1182,7 +1182,7 @@
                     "endOffset": 13360
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -1201,7 +1201,7 @@
                     "endOffset": 13461
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1220,7 +1220,7 @@
                     "endOffset": 13556
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1239,7 +1239,7 @@
                     "endOffset": 13679
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1258,7 +1258,7 @@
                     "endOffset": 13808
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1277,7 +1277,7 @@
                     "endOffset": 13925
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1297,7 +1297,7 @@
                     "endOffset": 14102
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1317,7 +1317,7 @@
                     "endOffset": 14201
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1337,7 +1337,7 @@
                     "endOffset": 14336
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1358,7 +1358,7 @@
                     "endOffset": 14479
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1379,7 +1379,7 @@
                     "endOffset": 14614
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1400,7 +1400,7 @@
                     "endOffset": 14733
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1421,7 +1421,7 @@
                     "endOffset": 14934
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1442,7 +1442,7 @@
                     "endOffset": 15053
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1462,7 +1462,7 @@
                     "endOffset": 15146
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1481,7 +1481,7 @@
                     "endOffset": 15257
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1500,7 +1500,7 @@
                     "endOffset": 15313
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1520,7 +1520,7 @@
                     "endOffset": 15420
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1541,7 +1541,7 @@
                     "endOffset": 15615
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1562,7 +1562,7 @@
                     "endOffset": 15726
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1583,7 +1583,7 @@
                     "endOffset": 15859
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1603,7 +1603,7 @@
                     "endOffset": 15954
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1622,7 +1622,7 @@
                     "endOffset": 16045
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1641,7 +1641,7 @@
                     "endOffset": 16136
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1660,7 +1660,7 @@
                     "endOffset": 16253
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1680,7 +1680,7 @@
                     "endOffset": 16392
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1701,7 +1701,7 @@
                     "endOffset": 16905
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1722,7 +1722,7 @@
                     "endOffset": 17430
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1743,7 +1743,7 @@
                     "endOffset": 18110
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1763,7 +1763,7 @@
                     "endOffset": 18167
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -1782,7 +1782,7 @@
                     "endOffset": 18225
                 },
                 "from": {
-                    "file": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
+                    "file": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,

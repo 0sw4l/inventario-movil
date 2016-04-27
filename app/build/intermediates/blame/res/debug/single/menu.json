@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/navigation_drawer_menu.xml",
-        "source": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/navigation_drawer_menu.xml"
+        "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/menu_settings.xml",
+        "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/menu_settings.xml"
     },
     {
-        "merged": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/menu_main.xml"
+        "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/menu_inbox.xml",
+        "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/menu_inbox.xml"
     },
     {
-        "merged": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/menu_settings.xml",
-        "source": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/menu_settings.xml"
+        "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/navigation_drawer_menu.xml",
+        "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/navigation_drawer_menu.xml"
     },
     {
-        "merged": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/menu_inbox.xml",
-        "source": "/home/osw4l/Desktop/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/menu_inbox.xml"
+        "merged": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/osw4l/AndroidStudioProjects/learn/Navigation-Drawer-Android-Design-Support-Library-with-Fragments/app/src/main/res/menu/menu_main.xml"
     }
 ]

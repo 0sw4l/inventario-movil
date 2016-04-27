@@ -18,7 +18,7 @@
             android:value="1" />
         <meta-data
             android:name="QUERY_LOG"
-            android:value="true" />
+            android:value="false" />
         <meta-data
             android:name="DOMAIN_PACKAGE_NAME"
             android:value="com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments"/>
@@ -33,7 +33,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".AddProducto" />
-        <activity android:name=".AddCategoria"></activity>
+        <activity android:name=".AddCategoria" />
+
     </application>
 
 </manifest>

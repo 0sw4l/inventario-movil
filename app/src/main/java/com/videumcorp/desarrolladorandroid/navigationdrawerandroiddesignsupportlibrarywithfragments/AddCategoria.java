@@ -14,7 +14,9 @@ import android.view.View;
 import android.widget.EditText;
 
 import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Fragments.Productos;
-import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Models.CategoriaModel;
+import com.videumcorp.desarrolladorandroid.navigationdrawerandroiddesignsupportlibrarywithfragments.Models.Categoria;
+
+import java.util.List;
 
 public class AddCategoria extends AppCompatActivity {
 
@@ -22,8 +24,9 @@ public class AddCategoria extends AppCompatActivity {
     EditText categoria_nombre;
     FloatingActionButton salvar_categoria;
     Extras call = new Extras(this);
-    String nombre;
-    CategoriaModel categoria;
+    String nombre, nombre_;
+    Categoria categoria;
+    boolean editarCategoria;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,17 +55,40 @@ public class AddCategoria extends AppCompatActivity {
 
         salvar_categoria = (FloatingActionButton)findViewById(R.id.salvar_categoria);
         categoria_nombre = (EditText)findViewById(R.id.categoria_nombre);
+
+        editarCategoria = getIntent().getBooleanExtra("editando", false);
+
+        if (editarCategoria){
+            nombre_ = getIntent().getStringExtra("nombre");
+            categoria_nombre.setText(nombre_);
+            editarCategoria=true;
+        }
+
         salvar_categoria.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
                 nombre = categoria_nombre.getText().toString();
                 if (nombre.length() > 0){
-                    categoria = new CategoriaModel(nombre, 0);
-                    categoria.save();
-                    call.msg("Categoria Creada Exitosamente!", v.getContext());
-                    finish();
-                     }
+                    if(editarCategoria){
+                        List<Categoria> cat_ = Categoria.find(Categoria.class, "nombre = ?", nombre_);
+                        if (!cat_.isEmpty()){
+                            Categoria c = cat_.get(0);
+                            c.setNombre(nombre);
+                            c.save();
+                            finish();
+                        }
+
+                    }else{
+                        List<Categoria> cat_ = Categoria.find(Categoria.class, "nombre = ?", nombre);
+                        if (cat_.isEmpty()) {
+                            categoria = new Categoria(nombre, 0);
+                            categoria.save();
+                            finish();
+                        } else
+                            call.msg("Esta categoria ya existe!", v.getContext());
+                    }
+                }
                 else {
                     call.Alert("Error, Registro Fallido", "Por favor complete los campos para crear" +
                             "una nueva categoria", v.getContext());
